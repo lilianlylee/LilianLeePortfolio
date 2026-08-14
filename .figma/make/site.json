@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a high-school student's diverse software development and graphic design projects to attract employers and internship opportunities with a polished portfolio.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
